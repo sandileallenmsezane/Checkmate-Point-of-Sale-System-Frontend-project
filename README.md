@@ -50,10 +50,10 @@ The system generates various reports including:
 
 ## Screenshot
  ### Main Interface
-![Main POS Interface](paymentType.png)
+![Main POS Interface](PaymentType.png)
 *Caption: The main Point of Sale interface showing the sales screen*
 
 ### Inventory Management
-![Inventory Screen](CRUD(product).png)
+![Inventory Screen](CRUD(Product).png)
 *Caption: Inventory management dashboard with stock levels*
 
