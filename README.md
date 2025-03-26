@@ -36,9 +36,7 @@ A comprehensive Point of Sale (POS) system built with C# and ASP.NET Core, featu
 [Screenshots to be added showing:]
 - Main POS interface
 - Inventory management screen
-- Customer management interface
-- Sales report dashboard
-- Low stock alerts
+- Receipt Printer interface
 
 ## Reports
 
@@ -50,10 +48,14 @@ The system generates various reports including:
 
 ## Screenshot
  ### Main Interface
-![Main POS Interface](PaymentType.png)
+![Main POS Interface](photo/Defaultpage.jpg)
 *Caption: The main Point of Sale interface showing the sales screen*
 
 ### Inventory Management
-![Inventory Screen](CRUD(Product).png)
+![Inventory Screen](photo/CRUD(Product).jpg)
 *Caption: Inventory management dashboard with stock levels*
+
+### Customer Management Interface
+![Customer Screen](photo/RECEIPT.jpg)
+*Caption: Receipt of newly purchased product by a customer*
 
