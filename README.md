@@ -55,7 +55,7 @@ The system generates various reports including:
 ![Inventory Screen](photo/CRUD(Product).jpg)
 *Caption: Inventory management dashboard with stock levels*
 
-### Customer Management Interface
+###  Receipt Interface
 ![Customer Screen](photo/RECEIPT.jpg)
 *Caption: Receipt of newly purchased product by a customer*
 
