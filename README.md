@@ -59,7 +59,7 @@ The system generates various reports including:
 ![Customer Screen](photo/RECEIPT.jpg)
 *Caption: Receipt of newly purchased product by a customer*
 
-## Link to the Project
+## LINK TO THE PROJECT FILES!!
 
 Sandile Allen Msezane
 - GitHub: @sandileallenmsezane(https://github.com/sandileallenmsezane/Checkmate-Point-of-Sale-System-Frontend-project.git)
